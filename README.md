@@ -1,2 +1,2 @@
 # Kanban-Board
- https://saylani-kanban-board.netlify.app/
+ https://kanban-board-java.netlify.app/index1.html
